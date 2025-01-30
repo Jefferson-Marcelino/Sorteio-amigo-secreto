@@ -1,6 +1,6 @@
 # Sorteio amigo secreto
 
-Esse projeto consiste em ser um sorteador de amigo secreto oline, desenvolvido em HTML< CSS e JavaScript. Tem como objetio  facilitar a realização de sorteios de amigo secreto.
+Esse projeto consiste em ser um sorteador de amigo secreto oline, desenvolvido em HTML, CSS e JavaScript. Tem como objetio  facilitar a realização de sorteios de amigo secreto.
 
 Funcionalidades:
 . Adicionar participante: Os usuários podem inserir os nomes do participantes através de um campo de texto.
